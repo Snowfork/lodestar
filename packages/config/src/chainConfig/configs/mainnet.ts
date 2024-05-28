@@ -52,7 +52,7 @@ export const chainConfig: ChainConfig = {
   // Time parameters
   // ---------------------------------------------------------------
   // 12 seconds
-  SECONDS_PER_SLOT: 12,
+  SECONDS_PER_SLOT: 1,
   // 14 (estimate from Eth1 mainnet)
   SECONDS_PER_ETH1_BLOCK: 14,
   // 2**8 (= 256) epochs ~27 hours
